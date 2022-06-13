@@ -1,0 +1,25 @@
+*{
+	margin: 10px;
+	padding: 10px;
+}
+body 
+{
+	background-color:#F2F3F4;
+	color:#F2F3F4;
+	font-family:verdana;
+}
+header
+{
+		height:3000px;
+		background-color:#34495E  ;
+}
+nav{
+		height:120pxp;
+		background-color:#34495E ;
+}
+section
+{	background-color:#34495E ;
+		height:100px;
+		width:95%;
+	float:left;
+}
