@@ -1,0 +1,25 @@
+*{
+	margin: 10px;
+	padding: 10px;
+}
+body 
+{
+	background-color:123417;
+	color:122F16;
+	font-family:verdana;
+}
+header
+{
+		height:100px;
+		background-color:0EB625;
+}
+nav{
+		height:50pxp;
+		background-color:F9FDFA;
+}
+section
+{	background-color:F9FDFA;
+		height:2000px;
+		width:100%;
+	float:left;
+}
